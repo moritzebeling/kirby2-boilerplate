@@ -1,0 +1,11 @@
+Title: Home
+
+----
+
+Text: 
+
+## Get started
+
+- (link: panel text: Panel)
+- (link: http://getkirby.com/docs text: Documentation)
+- (link: http://forum.getkirby.com text: Forum)

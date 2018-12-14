@@ -1,6 +1,16 @@
 title: Page
 
+# Page settings
+# https://getkirby.com/docs/panel/blueprints/page-settings
+
 fields:
+
+  # Form fields
+  # https://getkirby.com/docs/cheatsheet#panel-fields
+
+  # Groups
+  # https://getkirby.com/docs/panel/blueprints/global-field-definitions
+
   title:
     label: Title
     type:  text
